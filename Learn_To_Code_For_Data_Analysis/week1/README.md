@@ -6,7 +6,7 @@
 <li>Introduction</li>
 
 <li>Install the Software
-    <ol type = '1.1'>
+    <ol type = '1'>
     <li>Start With a Question</li>
     <li>Variables and Assignments</li>
     <li>The Art of Naming</li>
