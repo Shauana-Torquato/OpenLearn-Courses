@@ -4,8 +4,9 @@
 
 <ol>
 <li>Introduction</li>
-
+</br>
 <li>Install the Software
+</br>
     <ol type = '1'>
     <li>Start With a Question</li>
     <li>Variables and Assignments</li>
@@ -17,9 +18,11 @@
     <li>Values have Units</li>
     </ol>
 </li>
-
+</br>
 <li>This week's quiz</li>
+</br>
 <li>Summary</li>
+</br>
 <li>Week 1 practice quiz</li>
 
 </ol>
