@@ -6,14 +6,17 @@
 <li>Introduction</li>
 
 <li>Install the Software
-    2.1 - Start With a Question
-    2.2 - Variables and Assignments
-    2.3  The Art of Naming
-    2.4 - Downloading the Notebook and Trying the First Exercise
-    2.5 - Expressions
-    2.6 - Functions
-    2.7 - Comments
-    2.8 - Values have Units</li>
+    <ol>
+    <li>Start With a Question</li>
+    <li>Variables and Assignments</li>
+    <li>The Art of Naming</li>
+    <li>Downloading the Notebook and Trying the First Exercise</li>
+    <li>Expressions</li>
+    <li>Functions</li>
+    <li>Comments</li>
+    <li>Values have Units</li>
+    </ol>
+</li>
 
 <li>This week's quiz</li>
 <li>Summary</li>
